@@ -91,7 +91,7 @@ install_theme() {
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
-        THEME_URL=https://github.com/DanzzOffc/auto-installer-Danz/raw/main/stellaredit.zip
+        THEME_URL=https://github.com/DanzzOffc/auto-installer-Danz/raw/main/stellaredited.zip
         break
         ;;
       2)
