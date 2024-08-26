@@ -22,8 +22,8 @@ display_welcome() {
   echo -e "dilarang keras untuk memperjual belikan."
   echo -e ""
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@foxstore"
-  echo -e "@Chiwa"
+  echo -e "@DanzOffc"
+  echo -e "@DanzOffc"
   sleep 4
   clear
 }
